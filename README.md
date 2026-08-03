@@ -51,6 +51,16 @@ The purpose of this repository is to centralize high-quality, up-to-date scienti
 
 ---
 
+## Authors and contributors
+
+- [Ali Akbar Kiaei](https://github.com/a-kiaei) — repository engineering,
+  automation, metadata tooling, CI, and release management
+- [Mahnaz Bush](https://github.com/Mahnaz-Bush) — systematic literature
+  review, paper screening, scientific taxonomy, curation, and documentation
+- [Raha Aghaei](https://github.com/raha-aghaei-ai) — bibliographic validation,
+  metadata quality assurance, duplicate detection, link verification, and
+  reproducibility
+
 ## QAI-brain Research Collection
 
 This repository is part of the [QAI-brain](https://github.com/QAI-brain) open research and software collection. Browse the [central Quantum AI paper index](https://github.com/QAI-brain/QAI-Papers) for related topics and repositories.
