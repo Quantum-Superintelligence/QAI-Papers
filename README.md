@@ -48,3 +48,9 @@ The purpose of this repository is to centralize high-quality, up-to-date scienti
 - The repository is open to contributions and suggestions from the research community.
 
 ---
+
+---
+
+## QAI-brain Research Collection
+
+This repository is part of the [QAI-brain](https://github.com/QAI-brain) open research and software collection. Browse the [central Quantum AI paper index](https://github.com/QAI-brain/QAI-Papers) for related topics and repositories.
