@@ -76,9 +76,7 @@ The purpose of this repository is to centralize high-quality, up-to-date scienti
   automation, metadata tooling, CI, and release management
 - [Mahnaz Bush](https://github.com/Mahnaz-Bush) — systematic literature
   review, paper screening, scientific taxonomy, curation, and documentation
-- [Raha Aghaei](https://github.com/raha-aghaei-ai) — bibliographic validation,
-  metadata quality assurance, duplicate detection, link verification, and
-  reproducibility
+- [Raha Aghaei](https://github.com/raha-aghaei-ai) — literature discovery and curation, paper screening, bibliographic validation, metadata management, Excel maintenance, repository synchronization, and reproducibility
 
 ## QAI-brain Research Collection
 
