@@ -1,6 +1,6 @@
 # 📚 Quantum AI Papers
 
-**Quantum AI Papers** is a curated and categorized collection of research papers in the field of Quantum Artificial Intelligence. This repository is designed as a comprehensive reference hub for students, researchers, and practitioners working at the intersection of quantum computing and machine learning, with a focus on the most recent advancements in the field.
+**Quantum AI Papers** is the central, curated index for research at the intersection of quantum computing and artificial intelligence. It consolidates the maintained topic-specific collections in this organization so that students, researchers, and practitioners can browse a consistent set of bibliographic metadata.
 
 ---
 
@@ -32,7 +32,26 @@ Each paper entry includes the following metadata:
 - **Access Link**
 - **Category**
 
-> 🕓 **Note:** All papers included in this repository are published between **2022 and 2024**, reflecting the latest developments and trends in Quantum AI research.
+> 🕓 **Note:** The metadata collections are maintained through **2026** and are ordered from newest to oldest by publication year. The individual topic repositories remain the source of truth for topic-specific screening and context.
+
+## 📊 Current index
+
+The central index currently contains **802 papers** across the 10 topic collections:
+
+| category | file | papers |
+|:--|:--|--:|
+| Quantum Computing Fundamentals | [`QComputing.xlsx`](metadata/QComputing.xlsx) | 27 |
+| Quantum Machine Learning | [`QML.xlsx`](metadata/QML.xlsx) | 133 |
+| Quantum Neural Networks and Quantum Recurrent Neural Networks | [`QNN-QRNN.xlsx`](metadata/QNN-QRNN.xlsx) | 144 |
+| Quantum Convolutional Neural Networks | [`QCNN.xlsx`](metadata/QCNN.xlsx) | 98 |
+| Quantum Reinforcement Learning | [`QRL.xlsx`](metadata/QRL.xlsx) | 125 |
+| Quantum Generative Models | [`QGenerative.xlsx`](metadata/QGenerative.xlsx) | 59 |
+| Quantum Diffusion Models | [`QDiffusion.xlsx`](metadata/QDiffusion.xlsx) | 35 |
+| Quantum Graph Learning | [`QGraph.xlsx`](metadata/QGraph.xlsx) | 53 |
+| Quantum Natural Language Processing | [`QText.xlsx`](metadata/QText.xlsx) | 82 |
+| Quantum Transfer Learning | [`QTL.xlsx`](metadata/QTL.xlsx) | 46 |
+
+All ten collections contain papers from 2025 and/or 2026 after the latest synchronization.
 
 ---
 
